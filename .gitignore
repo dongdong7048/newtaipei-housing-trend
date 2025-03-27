@@ -1,0 +1,16 @@
+# 忽略 VS Code 設定與快取
+.vscode/
+__pycache__/
+*.pyc
+
+# 資料與圖片（視需要開放）
+data/
+# charts/
+# animation/
+
+# Jupyter Notebook Checkpoints（如果未來有用到）
+.ipynb_checkpoints/
+
+# 系統垃圾檔案
+.DS_Store
+Thumbs.db
