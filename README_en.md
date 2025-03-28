@@ -15,19 +15,19 @@ This project analyzes the real estate transaction data of New Taipei City from 2
 
 ### 1. Price vs Area Trend Visualization
 > 🔹 Script: `src/(散佈圖)新北市2018-2024不動產買賣 建物面積vs總價.py`  
-> 🔹 Image: `charts/price_vs_area_v2.png`
+> 🔹 Image: `charts/price_vs_area.png`
 
 A scatter plot with regression line showing the relationship between building area and total price.
 
 ### 2. Average Price by District Bar Chart
 > 🔹 Script: `src/(長條圖)新北市各行政區平均房價.py`  
-> 🔹 Image: `charts/avg_price_by_district_v2.png`
+> 🔹 Image: `charts/avg_price_by_district.png`
 
 Bar chart visualizing average unit price (per ㎡) across all districts in New Taipei City. Top 5 districts highlighted in red.
 
 ### 3. Animated Housing Price Changes (Bar Chart Race)
 > 🔹 Script: `src/(動畫)新北市2019-2025各行政區房價變化.py`  
-> 🔹 GIF: `animation/price_trend_v2.gif`
+> 🔹 GIF: `animation/price_trend.gif`
 
 Dynamic bar chart showing annual price changes by district. Highlights highest-price district each year and includes price change markers.
 
