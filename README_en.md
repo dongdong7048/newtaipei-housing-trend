@@ -43,13 +43,13 @@ pip install -r requirements.txt
 
 ## 📊 Data Source
 
-- [Taiwan Ministry of the Interior Real Estate Transactions](https://plvr.land.moi.gov.tw/DownloadOpenData)
+- [Taiwan Ministry of the Interior Real Estate Transactions](https://data.ntpc.gov.tw/datasets/ACCE802D-58CC-4DFF-9E7A-9ECC517F78BE)
 
 ---
 
 ## 👨‍💻 Author
 
-Kevin Sioco  
+Ethan Tsao  
 GitHub: [dongdong7048](https://github.com/dongdong7048)
 
 ---
