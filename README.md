@@ -1,4 +1,10 @@
+[🇺🇸 English README](README_en.md)
 # 🏠 新北市不動產價格趨勢分析（2018–2025）
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 ![房價變化動畫](animation/price_trend.gif)
 
